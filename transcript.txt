@@ -1,0 +1,390 @@
+[00:00] 윈이 만들어졌어요
+[00:02] 이걸로 보여드릴게요
+[00:04] 이름이 메가 프로듀싱트에요
+[00:12] 메가 프로듀싱트
+[00:15] 네, 이름이...
+[00:20] 메가 프로듀싱트에요
+[00:25] 너무 아름다워요
+[00:34] 제 이름은 없죠?
+[00:36] 네
+[00:46] 네, 이걸로 보낼게요
+[00:50] 오케이
+[00:51] 네, 무슨 잘못인지 모르겠어요
+[01:02] 만약에 보면 제 이름을 보고있다면, 무슨 잘못인지 모르겠어요
+[01:06] 그냥 아무것도 없을 거예요
+[01:08] 다른 엑스탄에 대한 링크를 놓을 수 있어요
+[01:12] 근데 그 링크를 놓을 수 없죠
+[01:14] 보통 링크를 놓을 수 없죠
+[01:16] 링크를 놓을 수 있어요
+[01:18] 그래서 링크를 놓을 수 있어요
+[01:20] 이게 뭐야?
+[01:22] 이게 처음이야
+[01:24] 아, 네
+[01:29] 아, 네
+[02:43] 그냥
+[03:29] 이 제품을 후에 전화시켜서
+[03:31] basically, it's a spreadsheet with all our international product profile
+[03:36] all the necessary information already included
+[03:40] so cost lines or whatever features
+[03:43] last time when we were chatting
+[03:46] I was talking about
+[03:48] sales team are requesting too many different words
+[03:51] of chase shape or price list
+[03:55] I think you also encounter some of them
+[03:57] at the translated version
+[03:59] at the
+[04:00] hey I want this one only masters
+[04:02] I want this one only UB
+[04:03] I want this one UB master plus this
+[04:05] blah blah blah
+[04:06] or I want only pathways
+[04:09] some of them say hey I only want the original price
+[04:12] someone say I want original price
+[04:14] and scholarship amount
+[04:16] and for example Anderson might say
+[04:18] hey I want the original price
+[04:21] plus scholarships amount
+[04:23] and the final price
+[04:25] final final price
+[04:27] everything showing on one spread
+[04:29] so because we are dealing with so many
+[04:32] different inquiries
+[04:34] I'm thinking probably
+[04:36] if we can make
+[04:38] a portal or somewhere
+[04:41] the sales team can come in
+[04:43] and they can select what they want
+[04:45] because they want
+[04:46] masters
+[04:48] or UB masters
+[04:50] or UB bachelors or whatever
+[04:52] so we can trigger it down from
+[04:54] category
+[04:56] to provider level
+[04:58] to cost level to cost name
+[05:00] so they can even just
+[05:02] for example somewhere they can easily click
+[05:04] and make their own
+[05:06] chase shape
+[05:08] how about that
+[05:10] make sense
+[05:12] so the sales team or even the agents
+[05:14] can even come in to create
+[05:16] product
+[05:18] brave for their clients
+[05:20] this is the next step
+[05:22] we are not talking about that yet
+[05:24] but we talk about seeing our sales team
+[05:26] as a client
+[05:28] when they want to get something
+[05:30] to use in a certain event
+[05:32] in a certain occasion
+[05:34] they might need specific information
+[05:36] to be displayed
+[05:38] and some other information to be hide
+[05:40] instead of us
+[05:42] doing that kind of
+[05:44] boring changes in design
+[05:46] or whatever
+[05:48] any way that we can get a smart tool
+[05:50] for them
+[05:52] it can be any format
+[05:54] can be a link
+[05:56] maybe the link we can publish
+[05:58] on sales portal or agent portal
+[06:00] or it can be
+[06:02] I don't know app or web app
+[06:04] or something like that
+[06:06] I don't have an absolute
+[06:08] requirement of how they should be
+[06:10] looking I just want it to be functional
+[06:12] and every time
+[06:14] when they finish the thing
+[06:16] you get a PDF
+[06:18] I mean definitely I want a
+[06:20] tangible thing to be downloaded by them
+[06:22] they say hey if I collect this and that
+[06:24] and then I get
+[06:26] whatever summary of my selection
+[06:28] and that one
+[06:30] ideally it can be exported
+[06:32] as a PDF file
+[06:34] and even better
+[06:36] that can become
+[06:38] print ready file
+[06:40] it will be even better
+[06:42] but I don't know but yeah that's a secondary requirement
+[06:44] primary requirement is whatever they select
+[06:46] they become a
+[06:48] PDF and a summary
+[06:50] and the summary
+[06:52] they can use it instantly
+[06:54] yeah that is
+[06:56] my basic requirement
+[06:58] for word 1
+[07:00] so if I provide this
+[07:02] kind of my product list to you
+[07:04] do you think you can start
+[07:06] to have a
+[07:08] self brainstorming or whatever
+[07:10] research on how that can be done
+[07:12] and still available
+[07:14] so the content
+[07:16] content is in
+[07:18] the Yoon's
+[07:19] sheet
+[07:20] yes all the information is
+[07:22] Yoon's sheet to her best effort
+[07:24] I wouldn't say it's absolutely
+[07:26] most updated because we are
+[07:28] still making changes to for example
+[07:30] you'll be bachelors or you'll be
+[07:32] masters, strands or
+[07:34] NTC stop recruiting but we have
+[07:36] decided not to change any
+[07:38] thing for NTC
+[07:40] because we still have NTC there
+[07:42] but probably some other
+[07:44] course can change the content
+[07:46] that's a very good point
+[07:48] once we change the
+[07:50] data results for example
+[07:52] this megas product sheet
+[07:54] according to whatever product changes
+[07:56] and that should reflect
+[07:58] on that portal as well
+[08:00] it should be a live one
+[08:02] not just one, a steady one
+[08:04] never change, we have to make it a live one
+[08:06] and whatever product
+[08:08] changes happen
+[08:10] we change the megas sheet
+[08:12] and that function
+[08:14] will also change accordingly
+[08:16] currently if you want to start
+[08:21] a prototype, yes
+[08:23] the spreadsheet I just shared
+[08:25] with you should be the one
+[08:27] you refer to
+[08:29] so it will cover
+[08:33] not prospectus
+[08:35] just flyers
+[08:37] chichi
+[08:39] those things
+[08:41] why flyers
+[08:43] I don't need anything
+[08:45] from flyers
+[08:47] that chichi
+[08:49] is basically telling you a program summary
+[08:51] this program got
+[08:53] situation fee for example
+[08:55] most important information and also one other intakes
+[08:57] what are dates of intakes
+[08:59] and then the query level for example
+[09:01] probably untrained requirement
+[09:03] academic requirement
+[09:05] or English requirement
+[09:07] those basic things we put on chichi
+[09:09] and the information has already
+[09:11] been collected and audited
+[09:13] in the sheet
+[09:15] the center view
+[09:17] so we just want to display the sheet
+[09:19] according to
+[09:21] the sales team's requirements
+[09:23] so not the final product
+[09:27] not the final flyer
+[09:29] no no no we are not
+[09:31] creating a flyer
+[09:33] we are creating
+[09:35] how do I put this
+[09:37] they do have a flyer
+[09:39] the flyer is designed by us
+[09:41] and we want them to use anyway as it is
+[09:43] but sometimes they want to have
+[09:45] a summary of different courses
+[09:47] not one course
+[09:49] they might choose hey I want to
+[09:51] I'm going to a fair
+[09:53] only for masters
+[09:55] so they can use our tool
+[09:57] probably click masters
+[09:59] and then all the master program will pop up
+[10:01] and then they want intakes
+[10:03] they want a tuition fee
+[10:05] so when they select
+[10:07] the information they want to display
+[10:09] that thing is automatically compelled
+[10:11] in one file as a summary
+[10:13] then they can print
+[10:15] that table with them
+[10:17] and better
+[10:19] if that table can be branded
+[10:21] of course it's perfect
+[10:23] but if it's not branded it's fine
+[10:25] so that's what they want
+[10:27] because they keep requesting
+[10:29] this to us
+[10:33] so it's more like to help them
+[10:35] get the information they need
+[10:37] yes
+[10:39] they need to use in their events
+[10:41] in some events like
+[10:43] they only want to display all the pathway programs
+[10:45] for example it's a university
+[10:47] something like that
+[10:49] they can show uv, they can show etc
+[10:51] they have to only show the 3
+[10:53] or if they call the guy
+[10:55] top 100 qis ranking university
+[10:57] then they can't bring a u t
+[10:59] they can't bring u w
+[11:01] so a lot of things
+[11:03] they have to be
+[11:05] very specific
+[11:07] into their events
+[11:09] so they can just comment click
+[11:11] and generate whatever
+[11:13] the summary of all their calls with them
+[11:15] okay
+[11:17] or even better
+[11:19] for this tool
+[11:21] I'm thinking longer
+[11:23] or deeper apart from
+[11:25] attending fairs and events by themselves
+[11:27] in the one on one
+[11:29] consultation when they are having
+[11:31] with students or with agents
+[11:33] for example agents ask
+[11:35] well I call these students
+[11:37] and these students
+[11:39] is background like this
+[11:41] and after a few questions
+[11:43] I was used to my recommended
+[11:45] hey I think these students can either
+[11:47] study a u b m b a
+[11:49] or sorry a is m b a
+[11:51] or u b master of management
+[11:53] or maybe he is interested in
+[11:55] teaching so called
+[11:57] into a original hood g b
+[11:59] and offer a few options
+[12:01] and after the chat
+[12:03] they won't be able to summarize
+[12:05] everything even some of them do
+[12:07] but they can just hey I can click
+[12:09] whatever they are speaking they can select
+[12:11] the calls they are showing to the agents
+[12:13] and later they say hey even from
+[12:15] the app they can click one button
+[12:17] of send and put in the e-mail address
+[12:19] and then the summary goes to the agent
+[12:21] already after the chatting
+[12:23] the agent got a list say hey this is our
+[12:25] after our business chat
+[12:27] and this is the summary of our chat
+[12:29] something like that
+[12:31] probably there's too much to ask
+[12:33] for sending the list directly
+[12:35] from the app they can request
+[12:37] the access to an e-mail and everything
+[12:39] but at least
+[12:43] you can generate a pdf
+[12:45] and to be downloaded
+[12:47] that is the first stage
+[12:49] whatever
+[12:51] something similar to what I talked here about
+[12:53] the university search
+[12:55] yes
+[12:57] did you copy my idea
+[12:59] someone copy someone's idea
+[13:01] I don't know
+[13:03] so that's my idea
+[13:05] and you said it's not good
+[13:07] okay
+[13:09] whatever you think
+[13:11] I know this since
+[13:13] because we had a burden
+[13:15] when I was looking for study group
+[13:17] that one there is the app
+[13:19] called callspanda
+[13:21] callspanda
+[13:23] from sales or agent perspective
+[13:25] purely from the students perspective
+[13:27] they enter their background
+[13:29] and desire degree
+[13:31] and everything
+[13:33] and come up with all the cost
+[13:35] options under study group
+[13:37] it's more a search tool
+[13:39] and after that they can generate a pdf
+[13:41] and send it to themselves
+[13:43] in the e-mail address
+[13:45] I mean the angle is different
+[13:47] that is for the students to
+[13:49] get a summary of the options
+[13:51] but this time we want the sales team
+[13:53] to decide what information to display
+[13:55] it's not just what cost to display
+[13:57] it's just
+[13:59] they decide this cost
+[14:01] and they decide to displace
+[14:03] this and that information
+[14:05] for the students
+[14:07] or for the agents
+[14:09] it's another layer
+[14:11] because in the study group
+[14:13] callspanda
+[14:15] the information sent to all students are the same
+[14:17] all include intake days
+[14:19] tuition fees
+[14:21] and something like that
+[14:23] but our sales team
+[14:25] might want to display different prices
+[14:27] or different information
+[14:29] so
+[14:31] yeah
+[14:33] it's gonna help everyone
+[14:37] yeah
+[14:39] that's exactly the purpose
+[14:41] we wanna save everyone's time
+[14:43] or give them more
+[14:45] more
+[14:47] yeah
+[14:49] I'll get started on it
+[14:51] you can start
+[14:53] when you got time
+[14:55] don't need to cheat as a priority
+[14:57] I don't have a deadline for this
+[14:59] but a few sales team has already chasing
+[15:01] I've been chasing up
+[15:03] on the chase sheet
+[15:05] I'm telling them now we have something exciting
+[15:07] coming up
+[15:09] so just don't worry about the chasing now
+[15:11] so yeah
+[15:13] maybe before
+[15:15] if I'm still working
+[15:17] in December
+[15:19] we can catch up again to see
+[15:21] what you've got
+[15:23] okay
+[15:25] so you'll be home
+[15:27] for the rest of the year
+[15:29] no no no
+[15:31] I'm still coming
+[15:33] because tomorrow is marketing offsite
+[15:35] yeah
+[15:37] and I'll be there
+[15:39] and the week after
+[15:41] I don't know
+[15:43] okay
+[15:45] yeah
+[15:49] thank you
+[15:51] yeah
+[15:53] enjoy the rest of the day
+[15:55] all the best
+[15:57] thank you baby
+[16:01] send me pictures
+[16:03] sure I will do
+[16:05] okay bye bye
